@@ -1,14 +1,5 @@
-<div align="center" width="50">
-    <img alt="Mohammad Kaif waving" src="./assets/oh hi there.png" width="300"/>
-</div>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Mohammad Kaif</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/mkaif76?style=social" />
-  <img src="https://img.shields.io/github/stars/mkaif76?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=mkaif76&style=plastic&color=blueviolet" />
-</p>
 
 <div align="center">
 <a href="https://ossinsight.io">
