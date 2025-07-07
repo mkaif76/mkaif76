@@ -93,5 +93,5 @@ I’ve worked on real-world projects and internships, including building scalabl
 	<img src="https://komarev.com/ghpvc/?username=mkaif76&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 <p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Contribution Snake"/>
+	<img src="https://github.com/mkaif76/mkaif76/blob/output/github-contribution-grid-snake.svg?" alt="Contribution Snake"/>
 </p>
