@@ -21,12 +21,15 @@ I’ve worked on real-world projects and internships, including building scalabl
 
 ## 📊 GitHub Personal Dashboard
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111599709" target="_blank" align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111599709" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111599709&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @mkaif76" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111599709&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 
